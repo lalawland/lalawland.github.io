@@ -1,2 +1,2 @@
 # lalawland.github.io
-Прекрасный мир
+*[Евразийский союз](https://lalawland.github.io/eurasia)

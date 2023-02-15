@@ -1,2 +1,2 @@
 # lalawland.github.io
-*[Евразийский союз](https://lalawland.github.io/eurasia)
+* [Евразийский союз](https://lalawland.github.io/eurasia)

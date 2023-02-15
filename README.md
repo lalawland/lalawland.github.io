@@ -1,2 +1,2 @@
-# lalawland.github.io
+# На главную
 * [Евразийский союз](https://lalawland.github.io/eurasia)

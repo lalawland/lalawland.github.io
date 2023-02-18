@@ -45,3 +45,11 @@
 [![Здесь должна быть картинка, но если её нет, значит всё :(](https://tse3.explicit.bing.net/th?id=OIP.6Bw1LU6ztRIBbXNdE0B21gHaEY&pid=Api)](https://tse3.explicit.bing.net/th?id=OIP.6Bw1LU6ztRIBbXNdE0B21gHaEY&pid=Api)
 
 `5.` Нормативные правовые акты муниципальных образований о местных налогах и сборах принимаются представительными органами муниципальных образований в соответствии с настоящим Кодексом.
+
+[![Здесь должна быть картинка, но если её нет, значит всё :(](https://sun9-12.userapi.com/3nSoU1-4SS68NCB6VNMr4pdpYIv6-7RnPAG_aA/wJrANWGldR4.jpg)](https://sun9-12.userapi.com/3nSoU1-4SS68NCB6VNMr4pdpYIv6-7RnPAG_aA/wJrANWGldR4.jpg)
+
+`5.1.` Нормативные правовые акты представительного органа федеральной территории "Сириус" о местных налогах и сборах принимаются в соответствии с настоящим Кодексом.
+
+[![Здесь должна быть картинка, но если её нет, значит всё :(](https://sun9-44.userapi.com/impg/ef2cKPlcD52ag2Y-bGNBUTHJWjKlCxn2DX5w7w/b4ztQ1BPak0.jpg?size=600x523&quality=96&sign=825ef8d104a01cdd0fc7d5b3bd6a07ba&c_uniq_tag=sRo-cr-7URv5zvSuUzZ6Z5RjARh52qbdipbKg89CJRM&type=album)](https://sun9-44.userapi.com/impg/ef2cKPlcD52ag2Y-bGNBUTHJWjKlCxn2DX5w7w/b4ztQ1BPak0.jpg?size=600x523&quality=96&sign=825ef8d104a01cdd0fc7d5b3bd6a07ba&c_uniq_tag=sRo-cr-7URv5zvSuUzZ6Z5RjARh52qbdipbKg89CJRM&type=album)
+
+`6.` Указанные в настоящей статье законы и другие нормативные правовые акты именуются в тексте настоящего Кодекса "законодательство о налогах и сборах".

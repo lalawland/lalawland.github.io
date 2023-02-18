@@ -5,5 +5,8 @@
 * Конституционное право
 * [Конституция](https://lalawland.github.io/eurasia/russia/const)
 
-* Финансовое право
+* Финансовое право № 1
 * [Налоговый кодекс](https://lalawland.github.io/eurasia/russia/taxes)
+
+* Финансовое право № 2
+* [Гражданский кодекс](https://lalawland.github.io/eurasia/russia/civil)

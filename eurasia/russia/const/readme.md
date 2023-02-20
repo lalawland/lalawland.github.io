@@ -19,3 +19,4 @@
 * Глава 2. Права и свободы человека и гражданина
 * [Статья 17](https://lalawland.github.io/eurasia/russia/const/art17)
 * [Статья 18](https://lalawland.github.io/eurasia/russia/const/art18)
+* [Статья 19](https://lalawland.github.io/eurasia/russia/const/art19)

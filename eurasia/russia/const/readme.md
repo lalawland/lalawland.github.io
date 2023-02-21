@@ -26,3 +26,4 @@
 * [Статья 19](https://lalawland.github.io/eurasia/russia/const/art19)
 * [Статья 20](https://lalawland.github.io/eurasia/russia/const/art20)
 * [Статья 21](https://lalawland.github.io/eurasia/russia/const/art21)
+* [Статья 22](https://lalawland.github.io/eurasia/russia/const/art22)

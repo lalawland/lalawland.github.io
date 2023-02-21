@@ -28,4 +28,4 @@
 
 принимаем настоящую Конституцию - Основной Закон Республики Беларусь.
 
-*[Статья 1 >>](https://lalawland.github.io/eurasia/russia/const/art1)*
+*[Статья 1 >>](https://lalawland.github.io/eurasia/belarus/const/art1)*

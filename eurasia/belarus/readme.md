@@ -2,3 +2,9 @@
 
 * Конституционное право
 * [Конституция](https://lalawland.github.io/eurasia/belarus/const)
+
+* Финансовое право № 1
+* [Налоговый кодекс](https://lalawland.github.io/eurasia/belarus/taxes)
+
+* Финансовое право № 2
+* [Гражданский кодекс](https://lalawland.github.io/eurasia/belarus/civil)

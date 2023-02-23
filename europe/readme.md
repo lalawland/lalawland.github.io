@@ -1,1 +1,1 @@
-* [Скандинавия](https://lalawland.github.io/eurasia/scandinavia)
+* [Скандинавия](https://lalawland.github.io/europe/scandinavia)

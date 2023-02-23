@@ -2,4 +2,4 @@
 * [Конституция](https://lalawland.github.io/eurasia/kazakhstan/const)
 
 * Финансовое право № 1
-* [Налоговый кодекс](https://lalawland.github.io/eurasia/kazakhstan/taxes)
+* [Кодекс о налогах и других обязательных платежах в бюджет (Налоговый кодекс)](https://lalawland.github.io/eurasia/kazakhstan/taxes)

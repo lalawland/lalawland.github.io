@@ -9,3 +9,4 @@
 * [Россия](https://lalawland.github.io/eurasia/russia)
 * [Беларусь](https://lalawland.github.io/eurasia/belarus)
 * [Казахстан](https://lalawland.github.io/eurasia/kazakhstan)
+* [Киргизия](https://lalawland.github.io/eurasia/kyrgyzstan)

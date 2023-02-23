@@ -29,3 +29,5 @@
 [![Здесь должна быть картинка, но если её нет, значит всё :(](https://sun9-8.userapi.com/impg/MOj1Puf0-k-8M9moKzTF1w-kiw1Qmgsbp9iC5w/BzCFSD7I8ds.jpg?size=320x336&quality=96&sign=a0da497ffaa292c6e5974bdbd1f5a2a1&c_uniq_tag=NbvCgU3LQOY6Z_K1HyBRVkl1AwJZraSCoN1jUYwhPF4&type=album)](https://sun9-8.userapi.com/impg/MOj1Puf0-k-8M9moKzTF1w-kiw1Qmgsbp9iC5w/BzCFSD7I8ds.jpg?size=320x336&quality=96&sign=a0da497ffaa292c6e5974bdbd1f5a2a1&c_uniq_tag=NbvCgU3LQOY6Z_K1HyBRVkl1AwJZraSCoN1jUYwhPF4&type=album)
 
 `7.` Все неустранимые сомнения, противоречия и неясности актов законодательства о налогах и сборах толкуются в пользу налогоплательщика (плательщика сбора, плательщика страховых взносов, налогового агента).
+
+[Статья 2](https://lalawland.github.io/eurasia/russia/taxes/art2) | [Статья 4](https://lalawland.github.io/eurasia/russia/taxes/art4)

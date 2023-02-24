@@ -14,4 +14,8 @@
 
 [![Здесь должна быть картинка, но если её нет, значит всё :(](https://sun9-west.userapi.com/sun9-51/s/v1/ig2/s11okr23zMnrv8e467tU5py7vBRXaMgQwsaYJ9OugXghXoiujb4YWth_gBwS4COwyRNGg5E07IH9c-Gky2C-7cUb.jpg?size=1280x720&quality=95&type=album)](https://sun9-west.userapi.com/sun9-51/s/v1/ig2/s11okr23zMnrv8e467tU5py7vBRXaMgQwsaYJ9OugXghXoiujb4YWth_gBwS4COwyRNGg5E07IH9c-Gky2C-7cUb.jpg?size=1280x720&quality=95&type=album)
 
+[![Здесь должна быть картинка, но если её нет, значит всё :(](https://sun9-west.userapi.com/sun9-56/s/v1/ig2/QKjnyvO84mxe0xSgDfbf1wQrIHyLL-VCo4zvQ-mxOnzgxrDJQ9CifjW0PuN8PZHG8IFFFSfTmbfK3CDL-vL5dAYb.jpg?size=1280x720&quality=95&type=album)](https://sun9-west.userapi.com/sun9-56/s/v1/ig2/QKjnyvO84mxe0xSgDfbf1wQrIHyLL-VCo4zvQ-mxOnzgxrDJQ9CifjW0PuN8PZHG8IFFFSfTmbfK3CDL-vL5dAYb.jpg?size=1280x720&quality=95&type=album)
+
+[![Здесь должна быть картинка, но если её нет, значит всё :(](https://sun9-east.userapi.com/sun9-32/s/v1/ig2/oME9PAzTOz_8kabRANb1be7Hs6-6y7QSvvIOMzKyWhlTVPLK2lWWQDwPJUxG_IazfFhvu0KT7QZnMFn4Ex2O9JTr.jpg?size=1280x720&quality=95&type=album)](https://sun9-east.userapi.com/sun9-32/s/v1/ig2/oME9PAzTOz_8kabRANb1be7Hs6-6y7QSvvIOMzKyWhlTVPLK2lWWQDwPJUxG_IazfFhvu0KT7QZnMFn4Ex2O9JTr.jpg?size=1280x720&quality=95&type=album)
+
 [Статья 70](https://lalawland.github.io/eurasia/russia/const/art70) | [Статья 72](https://lalawland.github.io/eurasia/russia/const/art72)

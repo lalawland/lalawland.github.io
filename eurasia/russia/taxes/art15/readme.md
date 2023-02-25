@@ -1,11 +1,11 @@
 #### [НК РФ 2000](https://lalawland.github.io/eurasia/russia/taxes)
 
-К региональным налогам относятся:
+К местным налогам и сборам относятся:
 
-`1)` налог на имущество организаций;
+`1)` земельный налог;
 
-`2)` налог на игорный бизнес;
+`2)` налог на имущество физических лиц;
 
-`3)` транспортный налог.
+`3)` торговый сбор.
 
-[Статья 13](https://lalawland.github.io/eurasia/russia/taxes/art13) | [Статья 15](https://lalawland.github.io/eurasia/russia/taxes/art15)
+[Статья 14](https://lalawland.github.io/eurasia/russia/taxes/art14) | [Статья 16](https://lalawland.github.io/eurasia/russia/taxes/art16)

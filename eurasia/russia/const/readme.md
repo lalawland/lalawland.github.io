@@ -3,6 +3,7 @@
 Конституция РФ была принята в 1993 году по инициативе президента Б. Н. Ельцина, инициировавшего прямое обращение к избирателям в своей борьбе с "красным" парламентом. В обход конституционных процедур президент заручился поддержкой множества россиян, которые хотели жить спокойно, и добился диктаторских полномочий для себя и своих преемников. Один президент - одна политика. Такова была максима раздираемого спорами постсоветского общества в глазах нового правительства, и это предопределило историю России на долгие годы.
 
 * [Преамбула](https://lalawland.github.io/eurasia/russia/const/pre)
+* Раздел 1
 * Глава 1. Основы конституционного строя
 * [Статья 1](https://lalawland.github.io/eurasia/russia/const/art1)
 * [Статья 2](https://lalawland.github.io/eurasia/russia/const/art2)
@@ -119,3 +120,34 @@
 * [Статьи 106-107](https://lalawland.github.io/eurasia/russia/const/art106-107)
 * [Статья 108](https://lalawland.github.io/eurasia/russia/const/art108)
 * [Статья 109](https://lalawland.github.io/eurasia/russia/const/art109)
+* Глава 6. Правительство Российской Федерации
+* [Статья 110](https://lalawland.github.io/eurasia/russia/const/art110)
+* [Статьи 111-113](https://lalawland.github.io/eurasia/russia/const/art111-113)
+* [Статья 114](https://lalawland.github.io/eurasia/russia/const/art114)
+* [Статья 115](https://lalawland.github.io/eurasia/russia/const/art115)
+* [Статья 116](https://lalawland.github.io/eurasia/russia/const/art116)
+* [Статья 117](https://lalawland.github.io/eurasia/russia/const/art117)
+* Глава 7. Судебная власть и прокуратура
+* [Статья 118](https://lalawland.github.io/eurasia/russia/const/art118)
+* [Статья 119](https://lalawland.github.io/eurasia/russia/const/art119)
+* [Статья 120](https://lalawland.github.io/eurasia/russia/const/art120)
+* [Статья 121](https://lalawland.github.io/eurasia/russia/const/art121)
+* [Статья 122](https://lalawland.github.io/eurasia/russia/const/art122)
+* [Статья 123](https://lalawland.github.io/eurasia/russia/const/art123)
+* [Статья 124](https://lalawland.github.io/eurasia/russia/const/art124)
+* [Статья 125](https://lalawland.github.io/eurasia/russia/const/art125)
+* [Статья 126](https://lalawland.github.io/eurasia/russia/const/art126)
+* Статья 127 исключена в 2014 году
+* [Статья 128](https://lalawland.github.io/eurasia/russia/const/art128)
+* [Статья 129](https://lalawland.github.io/eurasia/russia/const/art129)
+* Глава 8. Местное самоуправление
+* [Статья 130](https://lalawland.github.io/eurasia/russia/const/art130)
+* [Статья 131](https://lalawland.github.io/eurasia/russia/const/art131)
+* [Статья 132](https://lalawland.github.io/eurasia/russia/const/art132)
+* [Статья 133](https://lalawland.github.io/eurasia/russia/const/art133)
+* Глава 9. Конституционные поправки и пересмотр конституции
+* [Статья 134](https://lalawland.github.io/eurasia/russia/const/art134)
+* [Статья 135](https://lalawland.github.io/eurasia/russia/const/art135)
+* [Статья 136](https://lalawland.github.io/eurasia/russia/const/art136)
+* [Статья 137](https://lalawland.github.io/eurasia/russia/const/art137)
+* [Раздел 2. Заключительные и переходные положения](https://lalawland.github.io/eurasia/russia/const/conc)

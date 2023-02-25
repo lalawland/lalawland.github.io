@@ -1,5 +1,5 @@
 #### [Конституция РФ 1993](https://lalawland.github.io/eurasia/russia/const)
 
-[![Здесь должна быть картинка, но если её нет, значит всё :(](https://sun9-west.userapi.com/sun9-49/s/v1/ig2/s1FXY2-5tQJc71Ix-jkNvP3N_TYwDMrJ2Yx2-RFSiS09a6AdA1HbX5F5zbn0_kJIzKn1uCgdvcD4AlQkpRPpHYrv.jpg?size=1280x720&quality=95&type=album)](https://sun9-west.userapi.com/sun9-49/s/v1/ig2/s1FXY2-5tQJc71Ix-jkNvP3N_TYwDMrJ2Yx2-RFSiS09a6AdA1HbX5F5zbn0_kJIzKn1uCgdvcD4AlQkpRPpHYrv.jpg?size=1280x720&quality=95&type=album)
+[![Здесь должна быть картинка, но если её нет, значит всё :(](https://sun9-east.userapi.com/sun9-25/s/v1/ig2/mmbd5nti-RTKDPWTRaFoL3TeBk634rLr4p5pyddKdf_EiUvP6DSh9YkNN8AgyyzSs0jSfx6XvF6Zv4hJKjNpZvln.jpg?size=1280x720&quality=95&type=album)](https://sun9-east.userapi.com/sun9-25/s/v1/ig2/mmbd5nti-RTKDPWTRaFoL3TeBk634rLr4p5pyddKdf_EiUvP6DSh9YkNN8AgyyzSs0jSfx6XvF6Zv4hJKjNpZvln.jpg?size=1280x720&quality=95&type=album)
 
-[Статья 135](https://lalawland.github.io/eurasia/russia/const/art135) | [Статья 137](https://lalawland.github.io/eurasia/russia/const/art137)
+[Статья 136](https://lalawland.github.io/eurasia/russia/const/art136) | [Заключительные и переходные положения](https://lalawland.github.io/eurasia/russia/const/conc)

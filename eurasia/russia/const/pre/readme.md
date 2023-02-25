@@ -2,4 +2,4 @@
 
 [![Здесь должна быть картинка, но если её нет, значит всё :(](https://sun9-west.userapi.com/sun9-53/s/v1/ig2/wy9yTv8TCrM4Lll1s_u6ormOjwbX9b7H755HRKvDsCIXfRMUOfF-CPEEroEDwRyC-XQXSjp38dcb4R0_l2-lg-wA.jpg?size=1280x720&quality=95&type=album)](https://sun9-west.userapi.com/sun9-53/s/v1/ig2/wy9yTv8TCrM4Lll1s_u6ormOjwbX9b7H755HRKvDsCIXfRMUOfF-CPEEroEDwRyC-XQXSjp38dcb4R0_l2-lg-wA.jpg?size=1280x720&quality=95&type=album)
 
-*[Статья 1 >>](https://lalawland.github.io/eurasia/russia/const/art1)*
+[Статья 1 >>](https://lalawland.github.io/eurasia/russia/const/art1)

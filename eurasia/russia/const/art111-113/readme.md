@@ -10,4 +10,4 @@
 
 [![Здесь должна быть картинка, но если её нет, значит всё :(](https://sun9-west.userapi.com/sun9-4/s/v1/ig2/3JW5XdBeOgIZEV6wLhet7WbeuMgOcuLcRyoysxLZDct4jSa6AQKRYHBPxr7kotTcozDayzlr0hI7MO8GMdIJEXVc.jpg?size=1280x720&quality=95&type=album)](https://sun9-west.userapi.com/sun9-4/s/v1/ig2/3JW5XdBeOgIZEV6wLhet7WbeuMgOcuLcRyoysxLZDct4jSa6AQKRYHBPxr7kotTcozDayzlr0hI7MO8GMdIJEXVc.jpg?size=1280x720&quality=95&type=album)
 
-[Статьи 110](https://lalawland.github.io/eurasia/russia/const/art110) | [Статья 114](https://lalawland.github.io/eurasia/russia/const/art114)
+[Статья 110](https://lalawland.github.io/eurasia/russia/const/art110) | [Статья 114](https://lalawland.github.io/eurasia/russia/const/art114)

@@ -18,4 +18,4 @@
 
 [![Здесь должна быть картинка, но если её нет, значит всё :(](https://sun9-east.userapi.com/sun9-34/s/v1/ig2/JTiL2KZakbdjUW0UAZRYzQmjXYKGD2-ooi3uQHvKhWqS-u9wWNLiSnPnASbGPPeoKj31qj7WdwKD52QTjkztNXGX.jpg?size=1280x720&quality=95&type=album)](https://sun9-east.userapi.com/sun9-34/s/v1/ig2/JTiL2KZakbdjUW0UAZRYzQmjXYKGD2-ooi3uQHvKhWqS-u9wWNLiSnPnASbGPPeoKj31qj7WdwKD52QTjkztNXGX.jpg?size=1280x720&quality=95&type=album)
 
-<< [Статья 137](https://lalawland.github.io/eurasia/russia/const/art137)
+[<< Статья 137](https://lalawland.github.io/eurasia/russia/const/art137)

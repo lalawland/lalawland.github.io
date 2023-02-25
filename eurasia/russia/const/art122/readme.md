@@ -1,5 +1,5 @@
 #### [Конституция РФ 1993](https://lalawland.github.io/eurasia/russia/const)
 
-[![Здесь должна быть картинка, но если её нет, значит всё :(](https://sun9-west.userapi.com/sun9-62/s/v1/ig2/CyylBFAV0MIczw60Bfvjzwy4dNDxmuD_xQW3VIwqHrEHBrXussHWBD-n015xVF3roxw59xn2YdB8tMItuCvxhP7y.jpg?size=1280x720&quality=95&type=album)](https://sun9-west.userapi.com/sun9-62/s/v1/ig2/CyylBFAV0MIczw60Bfvjzwy4dNDxmuD_xQW3VIwqHrEHBrXussHWBD-n015xVF3roxw59xn2YdB8tMItuCvxhP7y.jpg?size=1280x720&quality=95&type=album)
+[![Здесь должна быть картинка, но если её нет, значит всё :(](https://sun9-east.userapi.com/sun9-41/s/v1/ig2/BFo0Vdb-2R8wilH-R8ThzRy0NVGl4AStSfXEEqta1AXceOiES3lYnB16pYwRRDIv2TGJO27ZcPc_-LZk4X3tptHQ.jpg?size=1280x720&quality=95&type=album)](https://sun9-east.userapi.com/sun9-41/s/v1/ig2/BFo0Vdb-2R8wilH-R8ThzRy0NVGl4AStSfXEEqta1AXceOiES3lYnB16pYwRRDIv2TGJO27ZcPc_-LZk4X3tptHQ.jpg?size=1280x720&quality=95&type=album)
 
-[Статья 120](https://lalawland.github.io/eurasia/russia/const/art120) | [Статья 122](https://lalawland.github.io/eurasia/russia/const/art122)
+[Статья 121](https://lalawland.github.io/eurasia/russia/const/art121) | [Статья 123](https://lalawland.github.io/eurasia/russia/const/art123)

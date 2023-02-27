@@ -4,4 +4,4 @@
 
 `2.` Законными представителями налогоплательщика - физического лица признаются лица, выступающие в качестве его представителей в соответствии с гражданским законодательством Российской Федерации.
 
-[Статья 25.18](https://lalawland.github.io/eurasia/russia/taxes/art25.18) | [Статья 27](https://lalawland.github.io/eurasia/russia/taxes/art27)
+[Статья 26](https://lalawland.github.io/eurasia/russia/taxes/art26) | [Статья 28](https://lalawland.github.io/eurasia/russia/taxes/art28)

@@ -26,4 +26,4 @@
 
 `5)` на основании вступившего в законную силу решения арбитражного суда о признании должника банкротом - со дня, следующего за днем вступления в законную силу такого решения.
 
-[Статья 25.10](https://lalawland.github.io/eurasia/russia/taxes/art25.10) | [Статья 25.12](https://lalawland.github.io/eurasia/russia/taxes/art25.12)
+[Статья 25.11](https://lalawland.github.io/eurasia/russia/taxes/art25.11) | [Статья 25.12-1](https://lalawland.github.io/eurasia/russia/taxes/art25.12-1)

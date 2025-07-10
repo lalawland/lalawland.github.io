@@ -1,4 +1,4 @@
-#### [ГК РФ 2006](https://lalawland.github.io/eurasia/russia/civil)
+#### [ГК РФ 2006](https://lalawland.github.io/eurasia/russia/banks/civil)
 
 [![Здесь должна быть картинка, но если её нет, значит всё :(](https://s00.yaplakal.com/pics/pics_preview/3/3/9/527933.jpg)](https://s00.yaplakal.com/pics/pics_preview/3/3/9/527933.jpg)
 
